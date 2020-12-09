@@ -1,0 +1,6 @@
+module Pods_tindev {
+  umbrella header "Pods-tindev-umbrella.h"
+
+  export *
+  module * { export * }
+}
